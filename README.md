@@ -20,7 +20,7 @@ Feito isso o RStudio vai criar a pasta e clonar o repositório, e então na jane
 
 ## 3: Configurando o Personal Access Token
 
-Para trabalhar com o Git vai ser necessário configurar o PAT, apenas siga essas instruções e salve seu PAT em um local seguro, você só pode ver ele uma vez.
+Para trabalhar com o Git vai ser necessário configurar o PAT, apenas siga [essas instruções](https://docs.github.com/en/enterprise-server@3.6/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) e salve seu PAT em um local seguro, você só pode ver ele uma vez.
 
 Agora é só colocar o PAT no RStudio, usando os seguintes comandos:
 
