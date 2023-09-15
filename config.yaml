@@ -1,0 +1,361 @@
+baseurl: https://devcows.github.io/hugo-universal-theme/
+title: Universal
+theme: hugo-universal-theme
+languageCode: en-us
+defaultContentLanguage: en
+disqusShortname: devcows
+googleAnalytics: ''
+summaryLength: 70
+paginate: 10
+pluralizelisttitles: no
+menu:
+  main:
+    - identifier: menu.home
+      name: Home
+      url: /
+      weight: 1
+    - name: 'Option 1: Default Page'
+      parent: menu.home
+      url: /
+      weight: 1
+    - name: 'Option 2: Application'
+      parent: menu.home
+      url: /
+      weight: 2
+    - name: 'Option 3: Startup'
+      parent: menu.home
+      url: /
+      weight: 3
+    - name: 'Option 4: Agency'
+      parent: menu.home
+      url: /
+      weight: 4
+    - name: 'Option 5: Portfolio'
+      parent: menu.home
+      url: /
+      weight: 5
+    - identifier: menu.features
+      name: Features
+      url: /img/template-easy-customize.png
+      weight: 3
+    - identifier: section.shortcodes
+      name: Shortcodes
+      parent: menu.features
+      post: 1
+      url: ''
+      weight: 1
+    - identifier: section.headervariations
+      name: Header variations
+      parent: menu.features
+      post: 2
+      url: ''
+      weight: 2
+    - name: Accordions
+      parent: section.shortcodes
+      url: ''
+      weight: 1
+    - name: Alerts
+      parent: section.shortcodes
+      url: ''
+      weight: 2
+    - name: Buttons
+      parent: section.shortcodes
+      url: ''
+      weight: 3
+    - name: Content Boxes
+      parent: section.shortcodes
+      url: ''
+      weight: 4
+    - name: Horizontal Blocks
+      parent: section.shortcodes
+      url: ''
+      weight: 5
+    - name: Pagination
+      parent: section.shortcodes
+      url: ''
+      weight: 6
+    - name: Tabs
+      parent: section.shortcodes
+      url: ''
+      weight: 7
+    - name: Typography
+      parent: section.shortcodes
+      url: ''
+      weight: 8
+    - name: Default Sticky Header
+      parent: section.headervariations
+      url: ''
+      weight: 1
+    - name: No Sticky Header
+      parent: section.headervariations
+      url: ''
+      weight: 2
+    - name: Light Header
+      parent: section.headervariations
+      url: ''
+      weight: 3
+    - identifier: menu.portfolio
+      name: Portfolio
+      url: /img/template-homepage.png
+      weight: 3
+    - identifier: section.portfolio
+      name: Portfolio
+      parent: menu.portfolio
+      post: 1
+      url: ''
+      weight: 1
+    - name: 2 Columns
+      parent: section.portfolio
+      url: ''
+      weight: 1
+    - name: 2 Columns With Negative Space
+      parent: section.portfolio
+      url: ''
+      weight: 2
+    - name: 3 Columns
+      parent: section.portfolio
+      url: ''
+      weight: 3
+    - name: 3 Columns With Negative Space
+      parent: section.portfolio
+      url: ''
+      weight: 4
+    - name: 4 Columns
+      parent: section.portfolio
+      url: ''
+      weight: 5
+    - name: 4 Columns With Negative Space
+      parent: section.portfolio
+      url: ''
+      weight: 6
+    - name: Portfolio - detail
+      parent: section.portfolio
+      url: ''
+      weight: 7
+    - name: Portfolio - detail 2
+      parent: section.portfolio
+      url: ''
+      weight: 8
+    - identifier: section.about
+      name: About
+      parent: menu.portfolio
+      post: 2
+      url: ''
+      weight: 2
+    - name: About Us
+      parent: section.about
+      url: ''
+      weight: 1
+    - name: Our Team
+      parent: section.about
+      url: ''
+      weight: 2
+    - identifier: section.marketing
+      name: Marketing
+      parent: menu.portfolio
+      post: 2
+      url: ''
+      weight: 3
+    - name: Packages
+      parent: section.marketing
+      url: ''
+      weight: 1
+    - identifier: menu.allpages
+      name: All Pages
+      url: ''
+      weight: 4
+    - identifier: section.ap-home
+      name: Home
+      parent: menu.allpages
+      post: 1
+      url: ''
+      weight: 1
+    - identifier: section.ap-about
+      name: About
+      parent: menu.allpages
+      post: 1
+      url: ''
+      weight: 2
+    - identifier: section.ap-marketing
+      name: Marketing
+      parent: menu.allpages
+      post: 1
+      url: ''
+      weight: 3
+    - identifier: section.ap-portfolio
+      name: Portfolio
+      parent: menu.allpages
+      post: 2
+      url: ''
+      weight: 1
+    - identifier: section.ap-userpages
+      name: User Pages
+      parent: menu.allpages
+      post: 2
+      url: ''
+      weight: 2
+    - identifier: section.ap-shop
+      name: Shop
+      parent: menu.allpages
+      post: 3
+      url: ''
+      weight: 1
+    - identifier: section.ap-shoporderprocess
+      name: Shop - Order Process
+      parent: menu.allpages
+      post: 3
+      url: ''
+      weight: 2
+    - identifier: section.ap-contact
+      name: Contact
+      parent: menu.allpages
+      post: 4
+      url: ''
+      weight: 1
+    - identifier: section.ap-pages
+      name: Pages
+      parent: menu.allpages
+      post: 4
+      url: ''
+      weight: 2
+    - identifier: section.ap-blog
+      name: Blog
+      parent: menu.allpages
+      post: 4
+      url: /blog/
+      weight: 3
+    - name: Blog Listing Big
+      parent: section.ap-blog
+      url: /blog/
+      weight: 1
+    - identifier: menu.blog
+      name: Blog
+      url: /blog/
+      weight: 5
+    - identifier: menu.faq
+      name: FAQ
+      url: /faq/
+      weight: 6
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 7
+  topbar:
+    - name: Phone
+      pre: <i class='fas fa-2x fa-phone'></i>
+      url: tel:+12 34 567 89 01
+      weight: 1
+    - name: GitHub
+      pre: <i class='fab fa-2x fa-github'></i>
+      url: https://github.com/devcows/hugo-universal-theme
+      weight: 2
+    - name: Facebook
+      pre: <i class='fab fa-2x fa-facebook'></i>
+      url: http://facebook.com
+      weight: 3
+    - name: Twitter
+      pre: <i class='fab fa-2x fa-twitter'></i>
+      url: http://twitter.com
+      weight: 4
+    - name: Email
+      pre: <i class='fas fa-2x fa-envelope'></i>
+      url: mailto:hello@universal.com
+      weight: 5
+params:
+  about_us: <p>Pellentesque habitant morbi tristique senectus et netus et malesuada
+    fames ac turpis egestas.</p>
+  address: "<p class=\"text-uppercase\"><strong>Universal Ltd.</strong>\n        <br>13/25
+    New Avenue\n        <br>Newtown upon River\n        <br>45Y 73J\n        <br>England\n
+    \       <br>\n        <strong>Great Britain</strong>\n      </p>\n      "
+  author: DevCows
+  carouselCustomers:
+    auto_play: no
+    items: 6
+    pagination_speed: 1000
+    slide_speed: 2000
+  carouselHomepage:
+    auto_play: yes
+    enable: yes
+    pagination_speed: 1000
+    slide_speed: 2000
+  carouselTestimonials:
+    auto_play: no
+    items: 4
+    pagination_speed: 1000
+    slide_speed: 2000
+  clients:
+    enable: yes
+    subtitle: ''
+    title: Our Clients
+  contact_form_ajax: no
+  contact_url: /contact
+  copyright: Copyright (c) 2015 - 2016, YourCompany; all rights reserved.
+  date_format: January 2, 2006
+  default_sharing_image: img/sharing-default.png
+  defaultDescription: Site template made by Devcows using Hugo
+  defaultKeywords:
+    - devcows
+    - hugo
+    - go
+  disabled_logo: no
+  dropdown_mouse_over: no
+  enableGoogleMaps: yes
+  enableRecaptchaInContactForm: no
+  facebook_site: ''
+  features:
+    cols: 3
+    enable: yes
+  footer:
+    recent_posts:
+      enable: yes
+  formspree_action: https://formspree.io/sample/of/endpoint
+  googleMapsApiKey: AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY
+  googleRecaptchaKey: site_key_for_google_recaptcha
+  latitude: '-12.043333'
+  logo: img/logo.png
+  logo_small: img/logo-small.png
+  logo_text: Universal
+  longitude: '-77.028333'
+  mainSections: blog
+  recent_posts:
+    enable: yes
+    hide_summary: no
+    subtitle: Pellentesque habitant morbi tristique senectus et netus et malesuada
+      fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget,
+      tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean
+      ultricies mi vitae est. Mauris placerat eleifend leo.
+    title: From our blog
+  see_more:
+    enable: yes
+    icon: far fa-file-alt
+    link_text: Check other homepages
+    link_url: '#'
+    subtitle: We have prepared for you more than 40 different HTML pages, including
+      5 variations of homepage.
+    title: Do you want to see more?
+  style: default
+  testimonials:
+    enable: yes
+    subtitle: We have worked with many clients and we always like to hear they come
+      out from the cooperation happy and satisfied. Have a look what our clients said
+      about us.
+    title: Testimonials
+  topbar:
+    enable: yes
+    text: "<p class=\"hidden-sm hidden-xs\">Contact us on +420 777 555 333 or hello@universal.com.</p>\n
+      \     <p class=\"hidden-md hidden-lg\"><a href=\"tel:+420 777 555 333\" data-animate-hover=\"pulse\"><i
+      class=\"fas fa-phone\"></i></a>\n      <a href=\"mailto:hello@universal.com\"
+      data-animate-hover=\"pulse\"><i class=\"fas fa-envelope\"></i></a>\n      </p>\n
+      \     "
+  twitter_site: GoHugoIO
+  viewMorePostLink: /blog/
+  widgets:
+    categories: yes
+    search: yes
+    tags: yes
+permalinks:
+  blog: /blog/:year/:month/:day/:filename/
+taxonomies:
+  author: authors
+  category: categories
+  tag: tags
