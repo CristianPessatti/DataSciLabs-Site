@@ -1,9 +1,21 @@
 weight: 4
-title: "Easy to customize"
+title: "Python"
 description: >
   <ul class="list-style-none">
-    <li>7 preprepared colour variations.</li>
-    <li>Easily to change fonts</li>
+    <li>Machine Learning</li>
+    <li>Deep Learning</li>
+    <li>Data e Web Scraping</li>
   </ul>
-image: "img/carousel/template-easy-code.png"
+image: "https://marquesfernandes.com/wp-content/uploads/2020/08/kwi4bvgzths31.jpg?is-pending-load=1"
 href: "https://devcows.github.io/hugo-universal-theme/"
+
+
+#weight: 4
+#title: "Easy to customize"
+#description: >
+#  <ul class="list-style-none">
+#    <li>7 preprepared colour variations.</li>
+#    <li>Easily to change fonts</li>
+#  </ul>
+#image: "img/carousel/template-easy-code.png"
+#href: "https://devcows.github.io/hugo-universal-theme/"

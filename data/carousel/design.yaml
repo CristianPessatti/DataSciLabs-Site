@@ -1,10 +1,10 @@
 weight: 3
-title: "Design"
+title: "R"
 description: >
   <ul class="list-style-none">
-    <li>Clean and elegant design</li>
-    <li>Full width and boxed mode</li>
-    <li>Easily readable Roboto font and awesome icons</li>
-    <li>7 preprepared colour variations</li>
+    <li>Manipulação de dados</li>
+    <li>Análise de dados</li>
+    <li>Visualização de Dados</li>
+    <li>Programação Estatística e Gráfica</li>
   </ul>
-image: "img/carousel/template-easy-customize.png"
+image: "https://i0.wp.com/www.cienciaedados.com/wp-content/uploads/2015/12/Uma-Breve-Introdu%C3%A7%C3%A3o-ao-R.png?fit=850%2C645&ssl=1"
