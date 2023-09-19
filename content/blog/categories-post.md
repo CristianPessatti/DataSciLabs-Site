@@ -6,22 +6,25 @@ categories:
 - programming
 - lorem
 - pseudo
-date: "2021-08-01T21:29:20+02:00"
+date: "2023-09-15T21:29:20+02:00"
 tags:
-- golang
-- programming
-- theme
-- hugo
-title: Categories Post
+- economia
+- sociedade
+- censo
+- municipio
+title: 'Censo: Impactos nos Serviços Públicos Municipais'
 ---
 
-I'm a post with multiple categories in the frontmatter:
+### Como os serviços públicos do seu município são afetados pelas estatísticas oficiais do Censo
 
-    categories = ["programming","lorem","pseudo"]
+Uma grande parte de nós utiliza serviços públicos diariamente, desde transporte público até postos de saúde, escolas e segurança. No entanto, você já se perguntou como o dinheiro proveniente dos impostos é alocado para financiar esses direitos fundamentais? Neste artigo, vamos discutir o Fundo de Participação dos Municípios (FPM), uma das principais fontes de financiamento para os serviços públicos nas cidades brasileiras. 
 
+Em primeiro lugar, é importante entender o que é o FPM. A cada dez dias, a Secretaria do Tesouro Nacional (STN) faz repasses de verbas federais aos municípios brasileiros. De acordo com a Confederação Nacional dos Municípios (CNM), esse repasse, o FPM, é a principal receita de sete em cada dez cidades brasileiras. Isso ocorre porque 90% do fundo é destinado às cidades do interior, que arrecadam menos, e 10% às capitais. O índice do FPM é calculado pelo Tribunal de Contas da União (TCU). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.
+Em 2023, prefeituras de pelo menos 16 estados brasileiros paralisaram suas atividades, mantendo apenas os serviços essenciais. Centenas de pessoas foram demitidas devido ao corte das verbas repassadas pelo FPM. Essa crise foi gerada por um dos critérios da base do cálculo do índice do FPM: o Censo 2022.  
 
-Morbi varius ex vel justo dictum placerat. Sed ac arcu pretium, varius elit eget, gravida purus. Fusce sit amet massa mollis eros tincidunt sollicitudin. Suspendisse iaculis cursus mauris ut sagittis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas elit ligula, molestie quis magna eu, semper posuere lorem. Mauris a justo pharetra, congue ex eget, tincidunt massa. Maecenas sit amet neque lorem.
+O Censo é a principal pesquisa realizada no Brasil. Trata-se de uma política de estado, que deve ocorrer a cada dez anos. Como os dados do Censo mostraram números populacionais menores que o estimado, os valores arrecadados pelas prefeituras diminuíram. E isso afeta diretamente você: quanto menos dinheiro sua prefeitura arrecadar, menos investimentos em saúde, educação e limpeza pública serão concebidos. Isso intensifica a importância de responder corretamente ao Censo e as pesquisas estatísticas. Somente com dados e estatísticas oficiais que poderemos formular as melhores políticas públicas para o Brasil. 
 
-Curabitur at elementum quam. Curabitur tristique elit non sapien aliquam vulputate. Vivamus in odio tincidunt, tempor sem quis, tincidunt lacus. Mauris pulvinar nunc sed tempus dictum. Nam vel arcu quis mi fermentum ullamcorper non ac lacus. Donec aliquet vitae ante at imperdiet. Aenean scelerisque venenatis urna, eget elementum risus convallis ac. Nullam gravida arcu lacus, non consectetur augue pretium non. Duis dignissim eros id urna pretium congue. Nullam eu magna in sem sollicitudin tempor. Pellentesque vel convallis ligula. Quisque semper, turpis a rhoncus efficitur, magna nibh iaculis elit, eget tempor dolor eros ut mi. Maecenas eu placerat lacus. Praesent congue pretium nulla, sed suscipit metus rutrum vel.
+Algumas tentativas de amenizar as diminuições de repasses às prefeituras foram realizadas: No início de 2023, o Supremo Tribunal Federal vetou por unanimidade o uso do Censo 2022 para o FPM, enquanto não fosse finalizado. No entanto, em julho, o TCU publicou uma nova decisão baseada nos dados do Censo. Além disso, em junho de 2023 o presidente Luiz Inácio Lula da Silva sancionou a lei complementar nº 198/2023, que visa evitar bruscas quedas de arrecadação dos municípios brasileiros. 
+
+Em conclusão, não podemos desconsiderar o papel fundamental da estatística nos serviços públicos do dia a dia. O Censo e outras pesquisas realizadas pelo IBGE pautam o planejamento do país. Dessa forma, responder aos questionários corretamente é um ato de cidadania e garantia da qualidade da arrecadação e prestação de serviços públicos. 
