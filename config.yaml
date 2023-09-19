@@ -48,11 +48,9 @@ menu:
       url: mailto:hello@universal.com
       weight: 5
 params:
-  about_us: <p>Pellentesque habitant morbi tristique senectus et netus et malesuada
-    fames ac turpis egestas.</p>
-  address: "<p class=\"text-uppercase\"><strong>Universal Ltd.</strong>\n        <br>13/25
-    New Avenue\n        <br>Newtown upon River\n        <br>45Y 73J\n        <br>England\n
-    \       <br>\n        <strong>Great Britain</strong>\n      </p>\n      "
+  about_us: <p>Descrição do Projeto aqui</p>
+  address: "<p class=\"text-uppercase\"><strong>DataSciLabs</strong>\n        <br>UFPR\n        <br>Jardim das Américas\n        <br>Curitiba\n
+    \       <br>\n        <strong>Brasil</strong>\n      </p>\n      "
   author: DevCows
   carouselCustomers:
     auto_play: no
