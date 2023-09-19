@@ -8,40 +8,36 @@ keywords:
 title: SOBRE O PROJETO
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+# Descrição Geral:
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+O Programa de Divulgação Científica em Estatística da Universidade Federal do Paraná (UFPR) é uma iniciativa dedicada a promover o conhecimento, a compreensão e o interesse pelo campo da estatística, tanto entre a comunidade acadêmica quanto o público em geral. Com uma abordagem multidisciplinar e interativa, este programa busca tornar a estatística acessível e relevante para a sociedade, destacando seu papel crucial na tomada de decisões, na pesquisa científica e no entendimento do mundo ao nosso redor.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+# Objetivos:
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+1. Despertar o Interesse Público: O programa tem como objetivo despertar o interesse do público em geral pela estatística, destacando sua importância em várias áreas da vida cotidiana, desde a medicina até a economia.
 
-## 2. WHAT ARE THE POSTAL RATES?
+2. Promover a Alfabetização Estatística: Buscamos capacitar as pessoas com as habilidades necessárias para compreender, analisar e interpretar dados estatísticos, tornando-as mais críticas e informadas.
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+3. Fomentar a Colaboração Interdisciplinar: A estatística é uma disciplina que se aplica a muitos campos. O programa busca fomentar a colaboração entre especialistas de diferentes áreas, demonstrando como a estatística pode melhorar a pesquisa e a tomada de decisões em diversas disciplinas.
 
-## 3. DO YOU SEND OVERSEAS?
+# Atividades do Programa:
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+1. Palestras Públicas: O programa oferece palestras acessíveis ao público em geral, ministradas por professores da UFPR e convidados especiais. Essas palestras abordam tópicos relevantes e envolventes da estatística, apresentando casos práticos e exemplos do mundo real.
 
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
+2. Workshops e Cursos: São oferecidos workshops e cursos introdutórios à estatística, adaptados para diferentes públicos, desde estudantes do ensino médio até profissionais interessados em aprimorar suas habilidades estatísticas.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+3. Divulgação Online: O programa mantém um site e presença nas redes sociais, onde são compartilhados artigos, vídeos e infográficos que explicam conceitos estatísticos de forma acessível e envolvente. Também são divulgados eventos e notícias relacionadas à estatística.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+4. Eventos Temáticos: Periodicamente, o programa organiza eventos temáticos que exploram a aplicação da estatística em áreas específicas, como saúde, meio ambiente, esportes, entre outros. Esses eventos contam com a participação de especialistas e são abertos ao público.
 
-## 5. ANOTHER IMPORTANT QUESTION
+5. Projetos de Pesquisa Colaborativos: A UFPR incentiva projetos de pesquisa que envolvam a estatística como elemento-chave, promovendo colaborações interdisciplinares e buscando soluções para problemas reais.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+# Público-Alvo:
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+* Estudantes do ensino médio e universitários.
+* Profissionais de diversas áreas.
+* Professores e pesquisadores interessados em estatística.
+* Comunidade em geral.
 
----
-
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+# Impacto Esperado:
+O Programa de Divulgação Científica em Estatística da UFPR visa aumentar a conscientização sobre a importância da estatística na sociedade, contribuindo para uma tomada de decisões mais informada e uma compreensão mais profunda do mundo quantitativo que nos rodeia. Espera-se que, ao longo do tempo, o programa ajude a melhorar a qualidade da pesquisa e das políticas públicas que dependem da análise estatística, além de promover o desenvolvimento de habilidades estatísticas em diversos setores da sociedade.
