@@ -112,7 +112,7 @@ params:
       ultricies mi vitae est. Mauris placerat eleifend leo.
     title: From our blog
   see_more:
-    enable: yes
+    enable: no
     icon: far fa-file-alt
     link_text: Check other homepages
     link_url: '#'
@@ -122,10 +122,8 @@ params:
   style: violet
   testimonials:
     enable: yes
-    subtitle: We have worked with many clients and we always like to hear they come
-      out from the cooperation happy and satisfied. Have a look what our clients said
-      about us.
-    title: Testimonials
+    subtitle: 'Declarações dos professores envolvidos no programa sobre o projeto'
+    title: Declarações
   topbar:
     enable: no
     text: "<p class=\"hidden-sm hidden-xs\">Contact us on +420 777 555 333 or hello@universal.com.</p>\n
