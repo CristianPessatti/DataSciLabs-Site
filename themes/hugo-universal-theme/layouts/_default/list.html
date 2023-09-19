@@ -57,7 +57,7 @@
                                         {{ if isset .Params "date" }}
 
                                         {{ $createdAt := .Date.Format .Site.Params.date_format }}
-                                        {{ range $index, $month := slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December" }}
+                                        {{ range $index, $month := slice "Janeiro" "Fevereiro" "Março" "Abril" "Maio" "Junho" "Julho" "Agosto" "Setembro" "Outubro" "Novembro" "Dezembro" }}
                                             {{ $createdAt = replace $createdAt $month (i18n $month) }}
                                         {{ end }}
 
@@ -68,7 +68,7 @@
                                     </div>
                                     {{ if not .Site.Params.recent_posts.hide_summary }}
                                     <p class="intro">{{ .Summary }}</p>
-                                    <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a>
+                                    <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-template-main">Continuar Lendo</a>
                                     </p>
                                     {{ end }}
                                 </div>
@@ -80,13 +80,13 @@
                             {{ if .Paginator.HasPrev }}
                             <li class="previous"><a href="{{ .Paginator.Prev.URL | relURL }}">&larr; {{ i18n "newer" }}</a></li>
                             {{ else }}
-                            <li class="previous disabled"><a href="#">&larr; {{ i18n "newer" }}</a></li>
+                            <li class="previous disabled"><a href="#">&larr; Novos</a></li>
                             {{ end }}
 
                             {{ if .Paginator.HasNext }}
-                            <li class="next"><a href="{{ .Paginator.Next.URL | relURL }}">{{ i18n "older" }} &rarr;</a></li>
+                            <li class="next"><a href="{{ .Paginator.Next.URL | relURL }}">Antigos &rarr;</a></li>
                             {{ else }}
-                            <li class="next disabled"><a href="#">{{ i18n "older" }} &rarr;</a></li>
+                            <li class="next disabled"><a href="#">Antigos &rarr;</a></li>
                             {{ end }}
                         </ul>
                     </div>

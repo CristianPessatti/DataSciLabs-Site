@@ -1,11 +1,14 @@
 ---
 authors:
-- John Doe
+- Gabrielly Popenda
+- Jean Kelvin Vieira
+- Marlon Rodrigues
+- Marco Antonio Silva Guibor
+- Rafael Aguilar Magalhães
 banner: img/banners/banner-4.jpg
 categories:
-- programming
-- lorem
-- pseudo
+- economia
+- sociedade
 date: "2023-09-15T21:29:20+02:00"
 tags:
 - economia
