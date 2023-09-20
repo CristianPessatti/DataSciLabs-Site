@@ -81,7 +81,7 @@ params:
     - devcows
     - hugo
     - go
-  disabled_logo: no
+  disabled_logo: yes
   dropdown_mouse_over: no
   enableGoogleMaps: yes
   enableRecaptchaInContactForm: no
