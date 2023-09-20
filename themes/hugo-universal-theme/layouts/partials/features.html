@@ -46,3 +46,52 @@
 {{ end }}
 {{ end }}
 {{ end }}
+
+{{ if isset .Site.Params "social_media" }}
+{{ if .Site.Params.social_media.enable }}
+{{ if isset .Site.Data "social_media" }}
+{{ if gt (len .Site.Data.social_media) 0 }}
+<section class="bar background-white">
+    <div class="container">
+        {{ $elements := default 3 .Site.Params.social_media.cols }}
+        {{ $features := sort .Site.Data.social_media "weight" }}
+
+        {{ $total_rows := div (len $features) $elements }}
+
+        {{ if gt (mod (len $features) $elements) 0 }}
+          {{ $total_rows = add $total_rows 1 }}
+        {{ end }}
+
+        {{ range $i, $sequence := seq $total_rows }}
+          <div class="row row-{{ $i }} row-{{ if eq (mod $i 2) 0 }}odd{{ else }}even{{ end }}">
+            {{ range $j, $sequence2 := (seq $elements) }}
+
+                {{ $feature_index := add (mul $i $elements) $j }}
+                {{ if lt $feature_index (len $features) }}
+                    {{ $element := index $features $feature_index }}
+
+                    <div class="col-md-{{ div 12 $elements }} col-{{ $j }} col-{{ if eq (mod $j 2) 0 }}odd{{ else }}even{{ end }}">
+                        <div class="box-simple">
+                            {{ with $element.url }}
+                            <a href="{{ $element.url }}" target="_blank">
+                            {{ end }}
+                                <div class="icon">
+                                    <i class="{{ $element.icon }}"></i>
+                                </div>
+                            {{ with $element.url }}
+                            </a>
+                            {{ end }}
+                            <h3>{{ $element.name | markdownify }}</h3>
+                            <p>{{ $element.description | markdownify }}</p>
+                        </div>
+                    </div>
+                {{ end }}
+            {{ end }}
+          </div>
+        {{ end }}
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
+{{ end }}

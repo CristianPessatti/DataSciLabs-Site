@@ -89,6 +89,9 @@ params:
   features:
     cols: 3
     enable: yes
+  social_media:
+    cols: 2
+    enable: yes
   footer:
     recent_posts:
       enable: yes
