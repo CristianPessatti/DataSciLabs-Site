@@ -1,10 +1,13 @@
 ---
 id: contact
-title: Contact
+title: Contato
 ---
 
-# We are here to help you
+<!--# Entre em contato:-->
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+### Telefone: (41) 3361-3141  
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+### E-mail: "email do projeto"  
+
+### Endereço : R. Evaristo F. Ferreira da Costa, 408 - Jardim das Américas, Curitiba - PR, 81530-015
+
