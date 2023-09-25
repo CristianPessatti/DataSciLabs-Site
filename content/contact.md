@@ -3,7 +3,7 @@ id: contact
 title: Contato
 ---
 
-<!--# Entre em contato:-->
+<!--# Entre em contatoo:-->
 
 ### Telefone: (41) 3361-3141  
 
