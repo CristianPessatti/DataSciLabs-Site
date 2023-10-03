@@ -17,15 +17,19 @@ menu:
     - identifier: menu.blog
       name: Blog
       url: /blog/
-      weight: 5
+      weight: 2
     - identifier: menu.faq
       name: Sobre
       url: /faq/
-      weight: 6
+      weight: 3
     - identifier: contact
       name: Contato
       url: /contact/
-      weight: 7
+      weight: 4
+    - identifier: equipe
+      name: Equipe
+      url: /equipe/
+      weight: 5
   topbar:
     - name: Phone
       pre: <i class='fas fa-2x fa-phone'></i>
