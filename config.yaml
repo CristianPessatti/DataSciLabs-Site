@@ -74,7 +74,7 @@ params:
   clients:
     enable: yes
     subtitle: ''
-    title: Our Clients
+    title: Colaboradores
   contact_form_ajax: no
   contact_url: /contact
   copyright: Copyright (c) 2015 - 2016, YourCompany; all rights reserved.
