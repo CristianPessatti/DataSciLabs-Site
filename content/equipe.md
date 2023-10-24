@@ -14,3 +14,4 @@ title: EQUIPE
 * Wagner Hugo Bonat
 * Silvia Emiko Shimakura
 * Fernanda Buhrer Rizzato
+* Nivea da Silva Matuda Machado
