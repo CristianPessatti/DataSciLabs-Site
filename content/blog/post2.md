@@ -22,7 +22,7 @@ title: 'O Impacto do Censo de 2022 na Região Metropolitana de Curitiba: Crescim
 
 Em continuação à nossa discussão sobre o Censo e suas implicações na região, agora podemos explorar os dados mais recentes do Censo de 2022, conduzido pelo Instituto Brasileiro de Geografia e Estatística (IBGE), que revelaram informações essenciais sobre o crescimento populacional na Região Metropolitana de Curitiba (RMC). Os novos números destacam uma tendência significativa que afeta diretamente a dinâmica da região. 
 
--> Gráfico - Mapa da RMC 
+![plot1](https://github.com/CristianPessatti/DataSciLabs-Site/blob/main/static/img/posts/post2/plot1.jpeg?raw=true "Plot 1")
 
 # Crescimento Populacional na RMC 
 
@@ -36,7 +36,7 @@ Entre os municípios da RMC, Fazenda Rio Grande se destaca como o que mais regis
 
 Outros municípios também apresentaram crescimento significativo, como Itaperuçu, que teve um aumento de 30,69%, e Piraquara, com um crescimento de 27,38% em sua população. 
 
--> Gráfico - Barras, comparando o crescimento de todos os municípios  
+![plot2](https://github.com/CristianPessatti/DataSciLabs-Site/blob/main/static/img/posts/post2/plot3.jpeg?raw=true "Plot 2")
 
 # Consequências de um Censo Acima do Esperado 
 
