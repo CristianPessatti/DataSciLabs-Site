@@ -5,7 +5,7 @@ authors:
 - Marlon Rodrigues
 - Marco Antonio Silva Guibor
 - Rafael Aguilar Magalhães
-banner: img/banners/banner-4.jpg
+banner: img/posts/post1/thumb1.png
 categories:
 - economia
 - sociedade
