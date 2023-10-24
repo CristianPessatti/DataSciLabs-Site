@@ -52,13 +52,13 @@ menu:
       url: mailto:hello@universal.com
       weight: 5
 params:
-  about_us: <p>Somos um programa da UFPR</p>
+  about_us: <p>Somos um Programa de Extensão em Ciência de Dados da UFPR</p>
   address: "<p class=\"text-uppercase\"><strong>DataSciLabs</strong>\n        <bUFPR\n        <br>Jardim das Américas\n        <br>Curitiba\n
     \       <br>\n        <strong>Brasil</strong>\n      </p>\n      "
   author: DevCows
   carouselCustomers:
     auto_play: no
-    items: 6
+    items: 5
     pagination_speed: 1000
     slide_speed: 2000
   carouselHomepage:
@@ -77,7 +77,7 @@ params:
     title: Colaboradores
   contact_form_ajax: no
   contact_url: /contact
-  copyright: Copyright (c) 2015 - 2016, YourCompany; all rights reserved.
+  copyright: Copyright (c) 2023, DataSci Labs UFPR. All rights reserved.
   date_format: January 2, 2006
   default_sharing_image: img/sharing-default.png
   defaultDescription: Site template made by Devcows using Hugo
@@ -85,7 +85,7 @@ params:
     - devcows
     - hugo
     - go
-  disabled_logo: yes
+  disabled_logo: no
   dropdown_mouse_over: no
   enableGoogleMaps: yes
   enableRecaptchaInContactForm: no
@@ -103,7 +103,7 @@ params:
   googleMapsApiKey: AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY
   googleRecaptchaKey: site_key_for_google_recaptcha
   latitude: '-12.043333'
-  logo: img/logo.png
+  logo: img/logo-dsl.jpeg
   logo_small: img/logo-small.png
   logo_text: DataSciLabs
   longitude: '-77.028333'
