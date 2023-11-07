@@ -105,7 +105,11 @@ params:
   latitude: '-25.45012'
   logo: img/logo-dsl.jpeg
   logo_small: img/logo-small.png
+<<<<<<< HEAD
   logo_text: DataSciLabss
+=======
+  logo_text: DataSciLabs
+>>>>>>> f31253704dcce28ae6bc188d6f4f0248e7c8837d
   longitude: '-49.233081'
   mainSections: blog
   recent_posts:

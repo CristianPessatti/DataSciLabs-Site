@@ -45,3 +45,8 @@
 .box-simple {
     min-height: 230px;
 }
+
+a.icone-footer, a.icone-footer:link, a.icone-footer:visited, a.icone-footer:hover, a.icone-footer:focus, a.icone-footer:active{
+  color:white;
+  font-size: 30px;
+}
