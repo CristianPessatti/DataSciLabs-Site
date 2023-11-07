@@ -18,7 +18,7 @@ Você sabia que mais de 30 mil pessoas morrem por ano em acidentes de trânsito 
 trânsito, também chamados sinistros de trânsito, constituem a principal causa de morte para crianças e jovens entre 5 e 29 anos de idade. Estamos vivendo uma epidemia silenciosa que mata os mais vulneráveis: pedestres, ciclistas e motociclistas, que juntos correspondem a mais da metade de todas as mortes no trânsito no mundo (MINISTÉRIO DA SAÚDE, 2022).
 
 
-![GráficoTrânsito](https://github.com/VitorKiemo/DataScilabs/blob/main/post4/GraficoTransito.png?raw=true)
+![GráficoTrânsito](https://github.com/CristianPessatti/DataSciLabs-Site/blob/main/static/img/posts/post4/GraficoTransito.png?raw=true)
 
 Neste cenário crítico de mortalidade, podemos nos perguntar: o que os governos municipais, estaduais e federal estão fazendo para reduzir o tamanho dessa tragédia? O fato é que os esforços nacional e internacional não recentes. Desde o início do milênio, houve tentativas de implementação de políticas públicas eficazes para redução da acidentalidade no trânsito. 
 
