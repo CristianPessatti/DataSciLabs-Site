@@ -102,11 +102,11 @@ params:
   formspree_action: https://formspree.io/sample/of/endpoint
   googleMapsApiKey: AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY
   googleRecaptchaKey: site_key_for_google_recaptcha
-  latitude: '-12.043333'
+  latitude: '-25,45012'
   logo: img/logo-dsl.jpeg
   logo_small: img/logo-small.png
-  logo_text: DataSciLabs
-  longitude: '-77.028333'
+  logo_text: DataSciLabss
+  longitude: '-49,233081'
   mainSections: blog
   recent_posts:
     enable: yes
