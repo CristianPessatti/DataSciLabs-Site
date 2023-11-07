@@ -1,0 +1,27 @@
+/* your styles go here */
+/* Example site test */
+
+:root {
+  --primary-accent: #986dbd;
+  --navbar-border-top: #653d87;
+  --button-border: #7a4aa3;
+  --link-focus: #724599;
+  --form-shadow: rgba(152, 109, 189, 0.6);
+  --pagination-bg: #e2d6ed;
+  --link-hover-bg: #7f4daa;
+  --navbar-focus: #cab3dd;
+}
+
+.box-image-text .image {
+    min-height: 190px;
+    max-height: 190px;
+}
+
+.box-image-text .image img {
+    max-height: 190px;
+    margin: auto;
+}
+
+.box-simple {
+    min-height: 230px;
+}
