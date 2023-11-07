@@ -5,7 +5,7 @@ author:
 - Rafael
 - Gaby
 - Jean
-banner: C:\Users\vitor\Pictures\DataSciLabs\ThumbTransito.png
+banner: img/posts/post4/ThumbTransito.png
 categories:
 - trânsito
 date: "2023-11-05T21:29:20+02:00"
