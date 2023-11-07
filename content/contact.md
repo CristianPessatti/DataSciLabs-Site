@@ -5,9 +5,11 @@ title: Contato
 
 <!--# Entre em contatoo:-->
 
+
+### E-mail: datascilabs@ufpr.br
+
 ### Telefone: (41) 3361-3141  
 
-### E-mail: datascilabs@ufpr.br  
+  
 
-### Endereço : R. Evaristo F. Ferreira da Costa, 408 - Jardim das Américas, Curitiba - PR, 81530-015
 
