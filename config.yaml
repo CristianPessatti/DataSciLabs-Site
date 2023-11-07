@@ -53,7 +53,7 @@ menu:
       weight: 5
 params:
   about_us: <p>Somos um Programa de Extensão em Ciência de Dados da UFPR</p>
-  address: "<p class=\"text-uppercase\"><strong>DataSciLabs</strong>\n        <bUFPR\n        <br>Jardim das Américas\n        <br>Curitiba\n
+  address: "<p class=\"text-uppercase\"><strong>DataSciLabs </strong>\n R. Evaristo F. Ferreira da Costa, 408 - Jardim das Américas, 81530-015\n        <br>Curitiba\n
     \       <br>\n        <strong>Brasil</strong>\n      </p>\n      "
   author: DevCows
   carouselCustomers:
@@ -102,11 +102,11 @@ params:
   formspree_action: https://formspree.io/sample/of/endpoint
   googleMapsApiKey: AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY
   googleRecaptchaKey: site_key_for_google_recaptcha
-  latitude: '-25,45012'
+  latitude: '-25.45012'
   logo: img/logo-dsl.jpeg
   logo_small: img/logo-small.png
   logo_text: DataSciLabss
-  longitude: '-49,233081'
+  longitude: '-49.233081'
   mainSections: blog
   recent_posts:
     enable: yes
