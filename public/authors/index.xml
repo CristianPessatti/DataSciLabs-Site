@@ -2,26 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on DataSciLabs</title>
-    <link>https://devcows.github.io/hugo-universal-theme/authors/</link>
+    <link>http://leg.ufpr.br/~ara/dsl/authors/</link>
     <description>Recent content in Authors on DataSciLabs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://devcows.github.io/hugo-universal-theme/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Sep 2023 21:29:20 +0200</lastBuildDate><atom:link href="http://leg.ufpr.br/~ara/dsl/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>John Doe</title>
-      <link>https://devcows.github.io/hugo-universal-theme/authors/john-doe/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <title>Gabrielly Popenda</title>
+      <link>http://leg.ufpr.br/~ara/dsl/authors/gabrielly-popenda/</link>
+      <pubDate>Fri, 15 Sep 2023 21:29:20 +0200</pubDate>
       
-      <guid>https://devcows.github.io/hugo-universal-theme/authors/john-doe/</guid>
+      <guid>http://leg.ufpr.br/~ara/dsl/authors/gabrielly-popenda/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jane Doe</title>
-      <link>https://devcows.github.io/hugo-universal-theme/authors/jane-doe/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <title>Jean Kelvin Vieira</title>
+      <link>http://leg.ufpr.br/~ara/dsl/authors/jean-kelvin-vieira/</link>
+      <pubDate>Fri, 15 Sep 2023 21:29:20 +0200</pubDate>
       
-      <guid>https://devcows.github.io/hugo-universal-theme/authors/jane-doe/</guid>
+      <guid>http://leg.ufpr.br/~ara/dsl/authors/jean-kelvin-vieira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marco Antonio Silva Guibor</title>
+      <link>http://leg.ufpr.br/~ara/dsl/authors/marco-antonio-silva-guibor/</link>
+      <pubDate>Fri, 15 Sep 2023 21:29:20 +0200</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/dsl/authors/marco-antonio-silva-guibor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marlon Rodrigues</title>
+      <link>http://leg.ufpr.br/~ara/dsl/authors/marlon-rodrigues/</link>
+      <pubDate>Fri, 15 Sep 2023 21:29:20 +0200</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/dsl/authors/marlon-rodrigues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rafael Aguilar Magalhães</title>
+      <link>http://leg.ufpr.br/~ara/dsl/authors/rafael-aguilar-magalh%C3%A3es/</link>
+      <pubDate>Fri, 15 Sep 2023 21:29:20 +0200</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/dsl/authors/rafael-aguilar-magalh%C3%A3es/</guid>
       <description></description>
     </item>
     

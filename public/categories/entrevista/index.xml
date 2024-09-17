@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>entrevista on DataSciLabs</title>
+    <link>http://leg.ufpr.br/~ara/dsl/categories/entrevista/</link>
+    <description>Recent content in entrevista on DataSciLabs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2023 21:29:20 +0200</lastBuildDate><atom:link href="http://leg.ufpr.br/~ara/dsl/categories/entrevista/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entrevista com o Professor Lineu Alberto</title>
+      <link>http://leg.ufpr.br/~ara/dsl/blog/2023/10/31/post3/</link>
+      <pubDate>Tue, 31 Oct 2023 21:29:20 +0200</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/dsl/blog/2023/10/31/post3/</guid>
+      <description>O Professor Lineu é Bacharel em Estatística, Mestre em Informática e professor substituto no Departamento de Estatística da UFPR e foi calorosamente indicado para ser nosso primeiro entrevistado nesse série de entrevistas que visam explorar a aplicação da Estatística no dia a dia. Descreve sua principal área de atuação como Estatística e métodos estatísticos aplicados em Ciência de dados, com ênfase em modelos de regressão. Sua home page é https://lineu96.github.io/</description>
+    </item>
+    
+  </channel>
+</rss>

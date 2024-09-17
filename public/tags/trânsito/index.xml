@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trânsito on DataSciLabs</title>
+    <link>http://leg.ufpr.br/~ara/dsl/tags/tr%C3%A2nsito/</link>
+    <description>Recent content in trânsito on DataSciLabs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Nov 2023 21:29:20 +0200</lastBuildDate><atom:link href="http://leg.ufpr.br/~ara/dsl/tags/tr%C3%A2nsito/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dados no trânsito: Como a Estatística pode salvar a sua vida</title>
+      <link>http://leg.ufpr.br/~ara/dsl/blog/2023/11/05/post4/</link>
+      <pubDate>Sun, 05 Nov 2023 21:29:20 +0200</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/dsl/blog/2023/11/05/post4/</guid>
+      <description>Você sabia que mais de 30 mil pessoas morrem por ano em acidentes de trânsito no Brasil? Esse número é equivalente a, no mínimo, uma morte a cada vinte minutos. De acordo com o Boletim Epidemiológico do Ministério da Saúde de 2022, os acidentes de trânsito, também chamados sinistros de trânsito, constituem a principal causa de morte para crianças e jovens entre 5 e 29 anos de idade. Estamos vivendo uma epidemia silenciosa que mata os mais vulneráveis: pedestres, ciclistas e motociclistas, que juntos correspondem a mais da metade de todas as mortes no trânsito no mundo (MINISTÉRIO DA SAÚDE, 2022).</description>
+    </item>
+    
+  </channel>
+</rss>

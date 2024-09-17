@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rafael Aguilar Magalhães on DataSciLabs</title>
+    <link>http://leg.ufpr.br/~ara/dsl/authors/rafael-aguilar-magalh%C3%A3es/</link>
+    <description>Recent content in Rafael Aguilar Magalhães on DataSciLabs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Sep 2023 21:29:20 +0200</lastBuildDate><atom:link href="http://leg.ufpr.br/~ara/dsl/authors/rafael-aguilar-magalh%C3%A3es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Censo: Impactos nos Serviços Públicos Municipais</title>
+      <link>http://leg.ufpr.br/~ara/dsl/blog/2023/09/15/post1/</link>
+      <pubDate>Fri, 15 Sep 2023 21:29:20 +0200</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/dsl/blog/2023/09/15/post1/</guid>
+      <description>Como os serviços públicos do seu município são afetados pelas estatísticas oficiais do Censo Uma grande parte de nós utiliza serviços públicos diariamente, desde transporte público até postos de saúde, escolas e segurança. No entanto, você já se perguntou como o dinheiro proveniente dos impostos é alocado para financiar esses direitos fundamentais? Neste artigo, vamos discutir o Fundo de Participação dos Municípios (FPM), uma das principais fontes de financiamento para os serviços públicos nas cidades brasileiras.</description>
+    </item>
+    
+    <item>
+      <title>O Impacto do Censo de 2022 na Região Metropolitana de Curitiba: Crescimento Populacional e Implicações</title>
+      <link>http://leg.ufpr.br/~ara/dsl/blog/2023/09/15/post2/</link>
+      <pubDate>Fri, 15 Sep 2023 21:29:20 +0200</pubDate>
+      
+      <guid>http://leg.ufpr.br/~ara/dsl/blog/2023/09/15/post2/</guid>
+      <description>Introdução Em continuação à nossa discussão sobre o Censo e suas implicações na região, agora podemos explorar os dados mais recentes do Censo de 2022, conduzido pelo Instituto Brasileiro de Geografia e Estatística (IBGE), que revelaram informações essenciais sobre o crescimento populacional na Região Metropolitana de Curitiba (RMC). Os novos números destacam uma tendência significativa que afeta diretamente a dinâmica da região.
+Crescimento Populacional na RMC Os dados do Censo de 2022 apontam que a população da Região Metropolitana de Curitiba (RMC) cresceu 10,4% em relação ao Censo de 2010.</description>
+    </item>
+    
+  </channel>
+</rss>

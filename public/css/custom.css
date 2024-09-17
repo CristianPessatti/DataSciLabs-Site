@@ -2,6 +2,26 @@
 /* Example site test */
 
 :root {
+  --primary-accent: #744c9b;
+  --navbar-border-top:#e2d6ed;
+  --button-border: #7a4aa3;
+  --link-focus: #e2d6ed;
+  --form-shadow: rgba(152, 109, 189, 0.6);
+  --pagination-bg: #e2d6ed;
+  --link-hover-bg: #7f4daa;
+  --navbar-focus:#e2d6ed; 
+}
+
+.navbar ul.nav > li > a {
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+  border-top: solid 5px transparent;
+}
+
+/*
+:root {
   --primary-accent: #986dbd;
   --navbar-border-top: #653d87;
   --button-border: #7a4aa3;
@@ -11,6 +31,25 @@
   --link-hover-bg: #7f4daa;
   --navbar-focus: #cab3dd;
 }
+*/
+
+.box-image-text {
+  position: relative;
+  height: 75vh;
+}
+
+
+
+.btn-template-main {
+  position: absolute;
+  left: 50%; /* Move o elemento para a metade da largura da div-pai */
+  transform: translateX(-50%); /* Centraliza horizontalmente */
+  bottom: 5px;
+  max-height: 100%; /* Ou um valor específico que você deseja */
+  overflow: hidden; /* Garante que o texto que excede a altura máxima seja oculto */
+}
+
+
 
 .box-image-text .image {
     min-height: 190px;
@@ -18,10 +57,53 @@
 }
 
 .box-image-text .image img {
-    max-height: 190px;
+    
+    max-height: 143px;
     margin: auto;
+    
 }
+
+
 
 .box-simple {
     min-height: 230px;
 }
+
+a.icone-footer, a.icone-footer:link, a.icone-footer:visited, a.icone-footer:hover, a.icone-footer:focus, a.icone-footer:active{
+  color:white;
+  font-size: 30px;
+}
+
+.home-carousel h1, .home-carousel h2, .home-carousel h3, .home-carousel p, .home-carousel ul {
+  margin-left: 8%;
+  margin-top: 10%;
+  text-align: left;
+  
+}
+
+.home-carousel ul li {
+  font-size: 23px;
+}
+
+.customers .item img {
+  width: 80%;
+  height: auto;
+  
+}
+  
+.customers .item {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 1px;
+}
+
+.owl-carousel .owl-item {
+  float: center;
+}
+
+  
+
+  

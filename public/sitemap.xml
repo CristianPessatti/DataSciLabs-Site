@@ -2,75 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://devcows.github.io/hugo-universal-theme/authors/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/blog/</loc>
+    <lastmod>2023-11-05T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/blog/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/categories/</loc>
+    <lastmod>2023-11-05T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/categories/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/blog/2023/11/05/post4/</loc>
+    <lastmod>2023-11-05T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/blog/2021/08/01/categories-post/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/</loc>
+    <lastmod>2023-11-05T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/tags/</loc>
+    <lastmod>2023-11-05T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/golang/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/tags/tr%C3%A2nsito/</loc>
+    <lastmod>2023-11-05T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/hugo/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/categories/tr%C3%A2nsito/</loc>
+    <lastmod>2023-11-05T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/authors/john-doe/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/tags/entrevista/</loc>
+    <lastmod>2023-10-31T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/categories/lorem/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/categories/entrevista/</loc>
+    <lastmod>2023-10-31T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/programming/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/blog/2023/10/31/post3/</loc>
+    <lastmod>2023-10-31T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/categories/programming/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/authors/</loc>
+    <lastmod>2023-09-15T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/categories/pseudo/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/tags/censo/</loc>
+    <lastmod>2023-09-15T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/blog/2023/09/15/post1/</loc>
+    <lastmod>2023-09-15T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/theme/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/tags/economia/</loc>
+    <lastmod>2023-09-15T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/authors/jane-doe/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/categories/economia/</loc>
+    <lastmod>2023-09-15T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/blog/2015/10/02/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/authors/gabrielly-popenda/</loc>
+    <lastmod>2023-09-15T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/authors/jean-kelvin-vieira/</loc>
+    <lastmod>2023-09-15T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/blog/2015/09/17/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/authors/marco-antonio-silva-guibor/</loc>
+    <lastmod>2023-09-15T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/blog/2015/08/03/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/authors/marlon-rodrigues/</loc>
+    <lastmod>2023-09-15T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/blog/2015/06/24/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/tags/municipio/</loc>
+    <lastmod>2023-09-15T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>http://leg.ufpr.br/~ara/dsl/blog/2023/09/15/post2/</loc>
+    <lastmod>2023-09-15T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/contact/</loc>
+    <loc>http://leg.ufpr.br/~ara/dsl/authors/rafael-aguilar-magalh%C3%A3es/</loc>
+    <lastmod>2023-09-15T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/ipsum/</loc>
+    <loc>http://leg.ufpr.br/~ara/dsl/tags/sociedade/</loc>
+    <lastmod>2023-09-15T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/blog/1/01/01/migrate-from-jekyll/</loc>
+    <loc>http://leg.ufpr.br/~ara/dsl/categories/sociedade/</loc>
+    <lastmod>2023-09-15T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/faq/</loc>
+    <loc>http://leg.ufpr.br/~ara/dsl/contact/</loc>
+  </url><url>
+    <loc>http://leg.ufpr.br/~ara/dsl/equipe/</loc>
+  </url><url>
+    <loc>http://leg.ufpr.br/~ara/dsl/faq/</loc>
   </url>
 </urlset>
